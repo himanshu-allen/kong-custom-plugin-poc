@@ -1,0 +1,5 @@
+GET http://localhost:8002/gists
+Authorization: Bearer "XYZ_SOME_AUTH_TOKEN"
+Accept: application/json
+
+###
